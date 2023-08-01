@@ -1,6 +1,10 @@
 # Screen lock
 
 A simple screen lock that uses i3lock.
+The script takes a screenshots and pixelizes it before using it as background.
+The user must enter his password to unlock the screen.
+
+![locked screen](screen.png "locked screen")
 
 ## Requirements
 
