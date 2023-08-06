@@ -8,7 +8,17 @@ The user must enter his password to unlock the screen.
 
 ## Requirements
 
-The script requires [i3lock](https://github.com/i3/i3lock) to be installed.
+- scrot
+
+  Can be installed with a package manager e.g. `apt install scrot`.
+
+- convert (from [ImageMagick](https://imagemagick.org/))
+
+  Can be installed with a package manager e.g. `apt install imagemagick`.
+
+- [i3lock](https://github.com/i3/i3lock)
+
+  Can be installed with a package manager e.g. `apt install i3lock`.
 
 ## Installation
 
