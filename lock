@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 
 TMP=$(mktemp -d)
 IMG=$TMP/lock_screen.png
